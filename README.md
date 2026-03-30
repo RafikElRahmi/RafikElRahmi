@@ -1,4 +1,4 @@
-<h1 align="center">Rafik Rahmi</h1>
+ <h1 align="center">Rafik Rahmi</h1>
 <p align="center">
   Full-Stack TypeScript Developer crafting scalable web and mobile products.
 </p>
@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/rahmi-rafik">
     <img src="https://img.shields.io/badge/LinkedIn-Rafik%20Rahmi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://rafik-portfolio-2025.vercel.app/">
+  <a href="https://rafikrahmi.me">
     <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
