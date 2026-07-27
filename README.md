@@ -56,7 +56,7 @@ const rafik = {
   </tr>
   <tr>
     <td align="right"><b>Mobile</b></td>
-    <td><img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB&label=&labelColor=20232A" height="40" alt="React Native" /> <img src="https://skillicons.dev/icons?i=expo&theme=dark" height="40" alt="expo" /></td>
+    <td><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" height="40" /> <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" height="40" /></td>
   </tr>
   <tr>
     <td align="right"><b>DevOps &amp; Tools</b></td>
