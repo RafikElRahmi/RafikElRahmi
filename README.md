@@ -1,4 +1,4 @@
- <h1 align="center">Rafik Rahmi</h1>
+<h1 align="center">Rafik Rahmi</h1>
 <p align="center">
   Full-Stack TypeScript Developer crafting scalable web and mobile products.
 </p>
@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/rahmi-rafik">
     <img src="https://img.shields.io/badge/LinkedIn-Rafik%20Rahmi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://rafikrahmi.me">
+  <a href="https://rafikrahmi.tn">
     <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
@@ -31,7 +31,13 @@ I enjoy building full-stack products end to end, from thoughtful interfaces to r
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,express,graphql,postgres,mongodb,tailwind,docker,git,figma,postman&perline=5" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,express,graphql,postgres,mongodb,redux,tailwind,docker,nginx,git,github,vercel,figma,postman&perline=5" alt="Tech stack" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/AI_Agents-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/MCP-0b7285?style=for-the-badge" alt="MCP" />
 </p>
 
 ## What I work on
@@ -47,6 +53,15 @@ I enjoy building full-stack products end to end, from thoughtful interfaces to r
 - Fast interfaces that still feel intentional
 - Pragmatic engineering choices with long-term maintainability
 - Close alignment between product goals and technical execution
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RafikElRahmi&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=dark" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafikElRahmi&hide_border=true&theme=dark" alt="GitHub streak" height="165" />
+</p>
+
+[![Rafik's contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=RafikElRahmi&theme=github-dark&hide_border=true&area=true)](https://github.com/RafikElRahmi)
 
 ## Profile focus
 
