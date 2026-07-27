@@ -61,7 +61,13 @@ I enjoy building full-stack products end to end, from thoughtful interfaces to r
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafikElRahmi&hide_border=true&theme=dark" alt="GitHub streak" height="165" />
 </p>
 
-[![Rafik's contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=RafikElRahmi&theme=github-dark&hide_border=true&area=true)](https://github.com/RafikElRahmi)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RafikElRahmi/RafikElRahmi/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RafikElRahmi/RafikElRahmi/output/github-contribution-grid-snake.svg" />
+    <img alt="Rafik's real contribution graph" src="https://raw.githubusercontent.com/RafikElRahmi/RafikElRahmi/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 ## Profile focus
 
