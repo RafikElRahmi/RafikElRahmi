@@ -54,21 +54,6 @@ I enjoy building full-stack products end to end, from thoughtful interfaces to r
 - Pragmatic engineering choices with long-term maintainability
 - Close alignment between product goals and technical execution
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RafikElRahmi&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=dark" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafikElRahmi&hide_border=true&theme=dark" alt="GitHub streak" height="165" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RafikElRahmi/RafikElRahmi/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RafikElRahmi/RafikElRahmi/output/github-contribution-grid-snake.svg" />
-    <img alt="Rafik's real contribution graph" src="https://raw.githubusercontent.com/RafikElRahmi/RafikElRahmi/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
 ## Profile focus
 
 This GitHub is mainly where I share the work, experiments, and implementation side of what I build.
