@@ -74,28 +74,6 @@ const rafik = {
   </tr>
 </table>
 
-## Featured Projects
-
-**🎬 [Pro Motion Studio](https://pro-motion-studio.vercel.app/)** — `Next.js` · `TypeScript` · `Redux Toolkit` · `REST API`
-> Showcase website with a custom self-service admin dashboard for a video production studio — full CRUD for videos, services, and testimonials, plus custom video ranking so the studio controls exactly what appears first. **[Live demo →](https://pro-motion-studio.vercel.app/)**
-
-**🛂 VISIGATE** — `NestJS` · `TypeScript` · `PostgreSQL` · `TailwindCSS` · `i18n`
-> Solo-built visit-management platform for a government organization, replacing a paper-based entry/exit system and phone-call reservations. Scheduling, real-time tracking, analytics, and a full audit trail — **5,000+ monthly visits tracked from day one.**
-
-**💬 CMDA** — `Next.js` · `Express.js` · `Socket.io` · `PostgreSQL`
-> Full real-time messaging module for a labor marketplace: chat with file/image/video/PDF previews, group messaging, block/archive controls, and automated email alerts for messages left unread after 24 hours.
-
-<details>
-<summary><b>More work</b></summary>
-
-<br/>
-
-- **SIRH** — `React` · `Express` · `GraphQL` · `PostgreSQL` — HR management system (14-person team). Built user/entity/enterprise CRUD, patched auth vulnerabilities (privilege escalation), migrated Bootstrap → Tailwind.
-- **PROXECO** — `React Native` · `Express` · `Socket.io` · `Stripe` — Solo-built delivery app for a three-role marketplace (buyer/seller/agent) with real-time Google Maps tracking and Stripe payments.
-- **Slodka Szkola** — `Next.js` · `Express` · `MongoDB` — Migrated a cake e-commerce platform from WordPress to Next.js; built multi-criteria filtering and reusable UI.
-
-</details>
-
 ## Experience
 
 - **Full-Stack TypeScript Developer** @ **EyeOtech** — *Mar 2024 – May 2026* · Ben Arous, Tunisia
